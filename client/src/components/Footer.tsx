@@ -1,5 +1,5 @@
 import Banner from "../assets/footer.jpg"
-import Logo from "../assets/logo.jpeg"
+import Logo from "../assets/logo/logo.png"
 import { BsInstagram, BsFacebook, BsLinkedin, BsAirplane, BsPhone } from "react-icons/bs";
 
 

@@ -1,5 +1,5 @@
 // import React from 'react'
-import Logo1 from "../assets/Logo.jpeg";
+import Logo1 from "../assets/logo/logo.png";
 import { IoMdSearch } from "react-icons/io";
 import { FaCaretDown, FaCartShopping } from "react-icons/fa6";
 import DarkModeToggle from "./DarkModeToggle";
@@ -54,7 +54,7 @@ const Navbar = () => {
           <div className="flex justify-between">
             <div className="flex items-center gap-1">
               <img src={Logo1} alt="logo" width={45} />
-              <h1 className="text-2xl font-extrabold">Shopsy @711</h1>
+              <h1 className="text-2xl font-extrabold">Theo-Shop</h1>
             </div>
             {/* le bouton recherche et l'icone course */}
             <div className="flex  items-center  gap-2 ">
