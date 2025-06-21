@@ -23,7 +23,7 @@ const App = () => {
   
 
   return (
-    <div className="bg-white dark:bg-gray-900 dark:text-white duration-200">
+    <div className="bg-white dark:bg-gray-900 dark:text-gray-800 duration-200">
       <NavBar/>
       <Hero />
       <Topproducts/>
