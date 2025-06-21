@@ -132,9 +132,9 @@ export const dropdownItems = [
 // src/constants.ts
 
 import Women1 from "../assets/women.png";
-import Women2 from "../assets/Women2.jpg";
-import Women3 from "../assets/Women3.jpg";
-import Women4 from "../assets/Women4.jpg";
+import Women2 from "../assets/women2.jpg";
+import Women3 from "../assets/women3.jpg";
+import Women4 from "../assets/women4.jpg";
 import Women5 from "../assets/women3.jpg";
 
 export const productData = [
