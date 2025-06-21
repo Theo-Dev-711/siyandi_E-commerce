@@ -1,7 +1,7 @@
 // src/constants.ts
 
-import ImageA from "../assets/Shirt.png";
-import ImageB from "../assets/Shirt2.png";
+import ImageA from "../assets/shirt.png";
+import ImageB from "../assets/shirt2.png";
 import ImageC from "../assets/shirt3.png";
 import { FaStar } from "react-icons/fa6";
 
