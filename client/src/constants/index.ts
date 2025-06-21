@@ -26,7 +26,7 @@ export const bestProducts = [
   },
   {
     id: 4,
-    img: Image2,
+    img: ImageB,
     title: "Casual Wear",
     description: "Lorem ipsum dolor sit amet consectetur",
   },
